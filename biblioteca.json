@@ -1,0 +1,35 @@
+{
+    "itens": [
+        {
+            "tipo": "Livro",
+            "titulo": "Biblia",
+            "ano": "2020",
+            "esta_emprestado": true,
+            "data_devolucao": "2026-05-06",
+            "autor": "Diversos"
+        },
+        {
+            "tipo": "Revista",
+            "titulo": "Revista Cientifica",
+            "ano": "2025",
+            "esta_emprestado": false,
+            "data_devolucao": null
+        },
+        {
+            "tipo": "Livro",
+            "titulo": "Desenvolvimento Python",
+            "ano": "2026",
+            "esta_emprestado": false,
+            "data_devolucao": null,
+            "autor": "Michael R Santos"
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "Renato",
+            "itens_comigo": [
+                "Biblia"
+            ]
+        }
+    ]
+}
