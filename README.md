@@ -61,7 +61,7 @@ Utilize o menu interativo no terminal para navegar pelas funções.
 ## 📈 Roadmap de Evolução
 [ ] Implementar interface gráfica (GUI).
 
-[ ] Substituir o JSON por um banco de dados SQLite.
+[ ] Substituir o JSON por um banco de dados MySQL.
 
 [ ] Adicionar funcionalidade de busca por autor ou ano.
 
