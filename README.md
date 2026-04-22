@@ -67,6 +67,9 @@ Utilize o menu interativo no terminal para navegar pelas funções.
 
 [ ] Gerar recibos de empréstimo em formato .txt ou .pdf.
 
-Desenvolvido por: [Renato Batista de Andrade]
+## 🤝 Conecte-se comigo
 
-Objetivo: Portfólio de Desenvolvimento Python / POO
+- **LinkedIn:** [Renato Andrade](www.linkedin.com/in/renato-andrade-a79570299)
+- **DIO:** [Renato Andrade](https://web.dio.me/users/renatoandrade00)
+
+Portfólio de Desenvolvimento Python / POO
